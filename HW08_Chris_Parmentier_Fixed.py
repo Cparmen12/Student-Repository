@@ -10,8 +10,8 @@ from typing import List, Tuple, IO, Iterator, Dict
 from collections import defaultdict
 from datetime import datetime, timedelta 
 import os
-#pip install prettytable
-#from prettytable import PrettyTable
+
+from prettytable import PrettyTable
 
 
 
